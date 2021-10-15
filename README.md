@@ -1,2 +1,2 @@
-# Transparency Reports
-Weekly Reports will be here in PDF format
+# Transparency
+Performance peports will be available here in PDF format
